@@ -1,5 +1,7 @@
-This is the second version of my code
+3rd version of my code
 
 please contact Chao Pei
 
 also contact Vera Lyu
+
+added something else
