@@ -5,3 +5,5 @@ please contact Chao Pei
 also contact Vera Lyu
 
 added feature1 and some feature else
+
+fixed a bug
