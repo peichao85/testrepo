@@ -6,4 +6,4 @@ also contact Vera Lyu
 
 added feature1 and some feature else
 
-fixed bug2
+fixed bug1 and bug2
